@@ -229,7 +229,7 @@ td a {
     color: inherit;
 }
 .celdaactiva {
-    background: yellow;
+    background: #ecc8fa;
     transform: scale(1.1);
 }
 .destacado{
