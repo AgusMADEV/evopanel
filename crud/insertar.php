@@ -54,7 +54,7 @@ $peticion = substr($peticion, 0, -1);
 $peticion .= ")";
 
 // Ejecuta la consulta
-echo "Consulta SQL: ".$peticion."<br>"; // Para depuración
+//echo "Consulta SQL: ".$peticion."<br>"; // Para depuración
 $resultado = $conexion->query($peticion);
 
 if (!$resultado) {
