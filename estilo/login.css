@@ -81,7 +81,7 @@ form input[type="submit"] {
 }
 
 form input[type="submit"]:hover {
-    background: #483D8B; /* Slightly darker shade of DarkSlateBlue */
+    background: #ab6ad6; /* Slightly darker shade of DarkSlateBlue */
     transform: scale(1.05);
 }
 
@@ -95,7 +95,7 @@ form a {
 }
 
 form a:hover {
-    color: #2E2B5F; /* Darker hover effect */
+    color: #ab6ad6; /* Darker hover effect */
 }
 
 form p {
