@@ -16,7 +16,7 @@ Archivo principal de la aplicación que consiste en el escritorio a partir del c
     <body>
         <header>
             <h1>
-                <img src="img/logo.svg" id="logo">
+                <img id="logo" src="https://evo-luciona.es/static/logo/evopanel.svg" alt="Logo">
                 Evoluciona | EvoPanel
             </h1>
             <div id="cerrarsesion">
