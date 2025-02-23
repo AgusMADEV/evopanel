@@ -81,7 +81,7 @@ form input[type="submit"] {
 }
 
 form input[type="submit"]:hover {
-    background: #ab6ad6; /* Slightly darker shade of DarkSlateBlue */
+    background: #251e2b; /* Slightly darker shade of DarkSlateBlue */
     transform: scale(1.05);
 }
 
